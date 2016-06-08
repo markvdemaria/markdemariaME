@@ -1,0 +1,27 @@
+{
+  "name": "markdemariame",
+  "version": "1.0.0",
+  "description": "My website at markdemaria.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markvdemaria/markdemariaME.git"
+  },
+  "keywords": [
+    "filmmaking",
+    "photography",
+    "independent",
+    "Raleigh",
+    "North",
+    "Carolina"
+  ],
+  "author": "Mark DeMaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markvdemaria/markdemariaME/issues"
+  },
+  "homepage": "https://github.com/markvdemaria/markdemariaME#readme"
+}
